@@ -12,7 +12,7 @@ game.module(
 
 game.Storage.id = 'net.pandajs.flyingdog';
 game.System.idtkScale = 'ScaleAspectFill';
-game.Analytics.id = 'UA-42024756-5';
+game.Analytics.id = 'UA-48117746-1';
 
 game.start(SceneGame, 768, 1024);
 
